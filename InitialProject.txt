@@ -6,8 +6,12 @@ Hi This is my first git project.
 
 I like to add some more changes here
 
+
 some more changes
 
 still added
 
 Done with may added 
+
+working in middle for current version
+
