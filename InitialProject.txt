@@ -1,5 +1,4 @@
-
-
+Hello all
 
 Hi This is my first git project.
 
