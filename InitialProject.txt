@@ -1,14 +1,8 @@
 
-This is github tutorial:
+This is a github tutorial:
 
 I am giving a github tutorial today to my team.
 
 We are covering review topics
 
-<html>
-<ul>
-<Aditya>
-<Manish>
-<Rohan>
-</ul>
 
